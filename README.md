@@ -5,4 +5,5 @@ Allows bulk renaming of filenames, changing dots and spaces in filenames for und
 Extensions and directory names can also be changed.
 Preview to check output before application.
 
-![renamer](https://user-images.githubusercontent.com/127301448/225082563-bb622e2a-8355-4bcb-9e54-b42d25681ac6.png)
+![renamer](https://user-images.githubusercontent.com/127301448/225083123-53926260-a580-4270-9d2b-6c16518aedb0.png)
+
